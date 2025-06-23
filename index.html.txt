@@ -1,0 +1,15 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>VOSviewer Map</title>
+</head>
+<body>
+  <h1>Interactive Network Map</h1>
+  <iframe
+    width="100%"
+    height="800"
+    src="https://www.vosviewer.com/vosviewer.php?map=https://researchernolan.github.io/vosviewer-map/website_test.map&network=https://researchernolan.github.io/vosviewer-map/website_test.net">
+  </iframe>
+</body>
+</html>
